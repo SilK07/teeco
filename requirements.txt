@@ -1,0 +1,11 @@
+fastapi[standard]
+uvicorn
+google-generativeai
+qdrant-client
+python-dotenv
+pydantic
+google-genai
+langgraph
+tavily-python
+streamlit
+requests
